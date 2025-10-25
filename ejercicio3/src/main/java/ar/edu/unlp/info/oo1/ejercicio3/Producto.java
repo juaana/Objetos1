@@ -1,4 +1,4 @@
-package ar.edu.unlp.info.oo1.ejercicio2;
+package ar.edu.unlp.info.oo1.ejercicio3;
 public class Producto{
 	
 	private double peso;
